@@ -1,0 +1,13 @@
+.notFound {
+    overflow: hidden;
+}
+
+.outside-track {
+    margin-bottom: 50px;
+
+}
+
+.notFound img:hover {
+    transform: scale(1.2);
+    transition: transform ease-in-out 2s;
+}
